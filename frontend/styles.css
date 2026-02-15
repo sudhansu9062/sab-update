@@ -25,7 +25,7 @@ body {
 
 .topbar {
   background: #fff;
-  height: 48px;
+  height: 54px;
   display: flex;
   align-items: center;
   border-bottom: 1px solid #e8eaee;
@@ -47,10 +47,6 @@ body {
 
 .logo-link {
   text-decoration: none;
-}
-
-.topbar .logo-link {
-  margin-left: -25px;
 }
 
 .logo span {
@@ -634,11 +630,11 @@ h2 {
 }
 
 .logo-img {
-  height: 70px;
+  height: 58px;
   width: auto;
   display: block;
+  margin-left: -10px;
 }
-
 
 
 

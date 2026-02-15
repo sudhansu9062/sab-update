@@ -418,22 +418,9 @@ h2 {
   .policy-row { flex-wrap: wrap; gap: 14px; }
 }
 
-$170px;
+.logo-img {
+  height: 58px;
   width: auto;
   display: block;
+  margin-left: -10px;
 }
-
-
-
-
-.topbar .container {`r`n  width: 100%;`r`n  margin: 0;`r`n  padding: 0 10px;`r`n}
-
-
-
-.logo-img {
-  height: 70px;
-  width: auto;
-  display: block;`r`n  margin-left: -18px;`r`n}
-
-
-
